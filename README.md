@@ -10,6 +10,7 @@ This repository houses my completed work for the British Airways Data Science Vi
 ### Task 1: Uncovering Customer Insights Through Web Scraping
 
 In Task 1, I delved into the art of web scraping by gathering customer feedback and review data from [Skytrax](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science). Through comprehensive analysis, I unearthed valuable insights that enhanced my understanding of customer sentiments, preferences, and needs. By analyzing this treasure trove of data, I gained a deeper perspective on how customer experiences can shape business success.
+
 ![Customer Satisfaction](C:/Users/huawei/Downloads/customer satisfaction.png)
 
 ![Sentiment Results](C:/Users/huawei/Downloads/sentiment ba.png)

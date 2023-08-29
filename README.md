@@ -1,5 +1,5 @@
 # British-Airways-Virtual-Internship
-![British Airways Logo](link_to_logo_image.png) <!-- Add the logo image link here -->
+![British Airways Logo](https://upload.wikimedia.org/wikipedia/it/4/42/British_Airways_Logo.svg) <!-- Add the logo image link here -->
 
 ## Overview
 

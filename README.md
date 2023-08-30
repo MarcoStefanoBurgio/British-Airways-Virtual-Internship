@@ -34,7 +34,7 @@ I extend my sincere gratitude to British Airways for offering this immersive Dat
 
 If you'd like to connect or learn more about my journey, feel free to reach out:
 
-- LinkedIn:([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/marcostefanoburgio/))
+- LinkedIn:([[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/marcostefanoburgio](https://www.linkedin.com/in/marcostefanoburgio/))
 - Email: marcostefanoburgio@gmail.com
 
 Thank you for joining me on this data-driven adventure! 🚀🔍
